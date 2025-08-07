@@ -27,13 +27,13 @@
 
 ### Ответ:
 
-backup.sh
-[скрипт] (https://github.com/konstanin-zubenko/Rsync/blob/main/backup.sh
+
+[скрипт] (https://github.com/konstanin-zubenko/Rsync/blob/main/backup.sh)
 
 ![alt text](https://github.com/konstanin-zubenko/Rsync/blob/main/img/96.png)
 
 
-[файл crontab(https://github.com/konstanin-zubenko/Rsync/blob/main/cozu)
+[файл crontab](https://github.com/konstanin-zubenko/Rsync/blob/main/cozu)
 
 
  ![alt text](https://github.com/konstanin-zubenko/Rsync/blob/main/img/98.png)
