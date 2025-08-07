@@ -8,11 +8,7 @@
 
 Ответ: 
 
-
-
-
-
-
+![alt text](https://github.com/konstanin-zubenko/Rsync/blob/main/img/95.png)
 
 
 Задание 2
