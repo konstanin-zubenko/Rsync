@@ -9,7 +9,7 @@
 
 Ответ: 
 
-'rsync -a --checksum --delete --exclude="." . /tmp/backup/ 
+'rsync -a --checksum --delete --exclude="." . /tmp/backup/'
 
 ![alt text](https://github.com/konstanin-zubenko/Rsync/blob/main/img/95.png)
 
