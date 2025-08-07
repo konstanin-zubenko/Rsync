@@ -28,7 +28,7 @@
 ### Ответ:
 
 
-[скрипт] (https://github.com/konstanin-zubenko/Rsync/blob/main/backup.sh)
+[скрипт](https://github.com/konstanin-zubenko/Rsync/blob/main/backup.sh)
 
 ![alt text](https://github.com/konstanin-zubenko/Rsync/blob/main/img/96.png)
 
@@ -39,7 +39,7 @@
  ![alt text](https://github.com/konstanin-zubenko/Rsync/blob/main/img/98.png)
 
 
-
+скриншот с результатом работы утилиты
 ![скриншот с результатом работы утилиты](https://github.com/konstanin-zubenko/Rsync/blob/main/img/99.png)
 
 
